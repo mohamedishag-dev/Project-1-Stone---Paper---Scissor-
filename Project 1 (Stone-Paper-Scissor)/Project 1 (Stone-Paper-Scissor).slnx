@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project 1 (Stone-Paper-Scissor)/Project 1 (Stone-Paper-Scissor).vcxproj" />
+</Solution>
